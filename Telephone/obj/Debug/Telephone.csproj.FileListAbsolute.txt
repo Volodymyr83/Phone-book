@@ -1,0 +1,13 @@
+C:\Users\Win7\source\repos\Telephone\Telephone\bin\Debug\Telephone.exe.config
+C:\Users\Win7\source\repos\Telephone\Telephone\bin\Debug\Telephone.exe
+C:\Users\Win7\source\repos\Telephone\Telephone\bin\Debug\Telephone.pdb
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.Form1.resources
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.exe
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.pdb
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.Password.resources
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.AddContact.resources
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.FormEdit.resources
+C:\Users\Win7\source\repos\Telephone\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
